@@ -1,6 +1,6 @@
 # Mini Twitter API
 
-Backend API for a mini Twitter-like social network built with Laravel 12
+Backend API for a mini Twitter-like social network built with Laravel 12.
 
 ### Features
 - User registration & auth (tokens)
