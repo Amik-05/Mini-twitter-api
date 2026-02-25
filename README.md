@@ -1,12 +1,12 @@
 # Mini Twitter API
 
-Backend API for a mini Twitter-like social network built with Laravel 12.
+Серверный интерфейс для социальной сети, подобной mini Twitter, созданной на Laravel 12.
 
-### Features
-- User registration & auth (tokens)
-- Feed with pagination
-- Creating, editing and deleting posts and replies
-- Likes (toggle)
-- Policies & authorization
-- Soft delete (posts, replies and users)
+### Функции
+- Регистрация и авторизация пользователей (token)
+- Лента с разбивкой по страницам
+- Создание, редактирование и удаление сообщений и ответов
+- Лайки (toggle)
+- Правила и авторизация
+- Автоматическое удаление (постов, ответов и пользователей)
 
